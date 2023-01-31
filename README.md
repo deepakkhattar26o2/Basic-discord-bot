@@ -10,4 +10,5 @@ and then simple run "npm start" and enjoy!
 #Commands: 
 
 gimme meme => fetches a meme from reddit
+
 gimme a compliment => Replies with a Sweet Compliment
